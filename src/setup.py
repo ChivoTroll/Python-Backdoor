@@ -29,6 +29,7 @@ print("4. Use 127.0.0.1 (for testing on this computer)")
 strChoice = ""
 strChoice = input("\n" + "Type selection: ")
 
+
 if strChoice == "1":
     pass
 elif strChoice == "2":
